@@ -7,7 +7,7 @@ title: "FAQs"
 ## I'm an app developer. Why should I choose Aurora over other EVMs?
 
 Aurora was built by the same team that created the NEAR Protocol, considered to be among the most highly regarded blockchain technologies in the crypto space.
-Although created at NEAR, Aurora will be exist as a separate entity, governed by the decentralized AuroraDAO, and will leverage the unique underlying NEAR technologies to
+Although created at NEAR, Aurora will exist as a separate entity, governed by the decentralized AuroraDAO, and will leverage the unique underlying NEAR technologies to
 align incentives of the network, product owners, and end users.
 When you choose to deploy your app on Aurora, you’re partnering with a highly-capable and dedicated organization, and
 building upon a technical foundation that will scale to meet all your future needs.
